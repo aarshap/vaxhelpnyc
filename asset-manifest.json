@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vaxhelpnyc/static/css/main.03e3d475.chunk.css",
-    "main.js": "/vaxhelpnyc/static/js/main.828b30f4.chunk.js",
-    "main.js.map": "/vaxhelpnyc/static/js/main.828b30f4.chunk.js.map",
+    "main.js": "/vaxhelpnyc/static/js/main.d71a4171.chunk.js",
+    "main.js.map": "/vaxhelpnyc/static/js/main.d71a4171.chunk.js.map",
     "runtime-main.js": "/vaxhelpnyc/static/js/runtime-main.6debc804.js",
     "runtime-main.js.map": "/vaxhelpnyc/static/js/runtime-main.6debc804.js.map",
     "static/js/2.f58975d6.chunk.js": "/vaxhelpnyc/static/js/2.f58975d6.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.6debc804.js",
     "static/js/2.f58975d6.chunk.js",
     "static/css/main.03e3d475.chunk.css",
-    "static/js/main.828b30f4.chunk.js"
+    "static/js/main.d71a4171.chunk.js"
   ]
 }
