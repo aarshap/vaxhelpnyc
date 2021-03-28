@@ -220,7 +220,7 @@ function App() {
         </footer>
 
         <div class="border border-gray-700 rounded-md p-7 max-w-lg">
-          <p class="font-medium text-lg text-gray-400 leading-relaxed">
+          <p class="text-lg text-gray-400 leading-relaxed">
             vaxhelp.nyc is a project by <a href="https://twitter.com/sleepingplanes" class="text-gray-200 underline hover:no-underline">Jeremy Perez-Cruz</a> and <a href="https://twitter.com/aaronshapiro" class="text-gray-200 underline hover:no-underline">Aaron Shapiro</a>. Thanks for visiting.
           </p>
         </div>
