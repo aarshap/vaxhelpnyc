@@ -2,7 +2,7 @@
   "name": "vaxhelp.nyc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aarshap.github.io/vaxhelpnyc",
+  "homepage": "https://vaxhelp.nyc",
   "dependencies": {
     "@craco/craco": "^6.1.1",
     "@testing-library/jest-dom": "^5.11.10",
